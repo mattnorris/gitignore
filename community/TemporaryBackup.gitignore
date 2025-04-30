@@ -1,0 +1,7 @@
+# Backup files
+*.bak
+
+# Temporary files
+tmp/
+tmp[-.]*
+*.tmp
